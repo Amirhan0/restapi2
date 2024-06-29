@@ -1,5 +1,5 @@
 //Виртуальная апи
-const API_URL = "http://localhost:4000/api/items";
+const API_URL = "https://restapi1-g03v.onrender.com/api/items";
 //POST запрос
 document
   .getElementById("dataForm")
